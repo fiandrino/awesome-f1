@@ -171,14 +171,21 @@
 
 #### Teams (2026)
 
-| | |
-|:--|:--|
-| [Aston Martin Aramco Formula One Team](https://www.astonmartinf1.com/) | [Atlassian Williams F1 Team](https://www.williamsf1.com/) |
-| [Audi Revolut F1 Team](https://www.sauber-group.com/motorsport/formula-1/) | [BWT Alpine Formula One Team](https://www.alpine-cars.com/f1) |
-| [Cadillac Formula 1 Team](https://www.cadillacf1.com/) | [McLaren Mastercard F1 Team](https://www.mclaren.com/racing/) |
-| [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/) | [Oracle Red Bull Racing](https://www.redbullracing.com/) |
-| [Scuderia Ferrari HP](https://www.ferrari.com/en-EN/formula1) | [TGR Haas F1 Team](https://www.haasf1team.com/) |
-| [Visa Cash App Racing Bulls](https://www.racingbulls.com/) | |
+| Team | YouTube | X |
+|:--|:--|:--|
+| [Alpine](https://www.alpinef1.com/) | [YouTube](https://www.youtube.com/@AlpineCars) | [X](https://x.com/AlpineF1Team) |
+| [Aston Martin](https://www.astonmartinf1.com/en-GB/) | [YouTube](https://www.youtube.com/@astonmartinf1team) | [X](https://x.com/astonmartinf1) |
+| [Audi](https://www.audif1.com/en) | [YouTube](https://www.youtube.com/@AudiF1TV) | [X](https://x.com/audif1_) |
+| [Cadillac](https://www.cadillacf1team.com/) | [YouTube](https://www.youtube.com/@CadillacF1TeamOfficial) | [X](https://x.com/Cadillac_F1) |
+| [Ferrari](https://www.ferrari.com/en-EN/formula1) | [YouTube](https://www.youtube.com/@Ferrari) | [X](https://x.com/ScuderiaFerrari) |
+| [Haas](https://www.haasf1team.com/) | [YouTube](https://www.youtube.com/@Haasf1team) | [X](https://x.com/HaasF1Team) |
+| [McLaren](https://www.mclaren.com/racing/formula-1/) | [YouTube](https://www.youtube.com/@mclarenracing) | [X](https://x.com/McLarenF1) |
+| [Mercedes](https://www.mercedesamgf1.com/) | [YouTube](https://www.youtube.com/@MercedesAMGF1) | [X](https://x.com/MercedesAMGF1) |
+| [Racing Bulls](https://www.visacashapprb.com/int-en) | [YouTube](https://www.youtube.com/@VisaCashAppRB) | [X](https://x.com/visacashapprb) |
+| [Red Bull Racing](https://www.redbullracing.com/int-en) | [YouTube](https://www.youtube.com/@redbullracing) | [X](https://x.com/redbullracing) |
+| [Williams](https://www.williamsf1.com/) | [YouTube](https://www.youtube.com/@WilliamsF1TV) | [X](https://x.com/WilliamsF1) |
+
+Alpine and Ferrari link to their official brand-wide YouTube channels, which also cover F1.
 
 ### News and Media
 
